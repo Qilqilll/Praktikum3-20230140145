@@ -8,10 +8,10 @@ check-in jika dilakukan lebih dari 1 kali
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a04fdc88-46b2-4fca-a4f6-d3529c6028d4" />
 
 check-out
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/53473527-4885-44d7-8895-0910970d050c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/691ac245-2a96-4641-8ca8-cc7ad2fea891" />
 
 check-out jika belum melakukan check-in
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d97ae3a8-6aff-45d0-817b-45706ac570f1" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/25200e4e-f0c0-4a04-874b-3dee634c0840" />
 
 reports/daily
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/19a8a02d-4015-4f8e-ae4a-ea842a95eaa1" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/16fcf227-df83-4868-b828-a311e5865a46" />
